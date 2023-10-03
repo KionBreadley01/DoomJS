@@ -5,7 +5,7 @@ setTimeout(() => console.log('Tarea asigcrona'));
 console.log('sigue ejecutando');
 console.log(teams);
 
-function getTeams{
+function getTeams(){
     return teams;
 }
 function asincGeTeams(){
