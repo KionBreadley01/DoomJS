@@ -1,4 +1,4 @@
-const gatDataPromise = new Promise(
+const getDataPromise = new Promise(
     (resolve, reject => {
         setTimeout(() => {
             // resolve(datos);
@@ -8,7 +8,7 @@ const gatDataPromise = new Promise(
 
     )
     );
-    // consoñe .log(getDataPromise);
+    // console .log(getDataPromise);
     console.log('inicia promesa')
     getDataPromise.then((result) => {
         console.log(result);
