@@ -118,4 +118,8 @@
 		cursor: pointer;
 		font-size: 
 	}
+    .copy{
+        color: #c7c7c7;
+        align-items: center;
+    }
 	/*Fin de Menù lateral*/
